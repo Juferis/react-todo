@@ -45,11 +45,16 @@
       "not dead",
       "not op_mini all"
     ],
-    "homepage": "https://juferis.github.io/react-todo",
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "homepage": "https://juferis.github.io/react-todo",
+  "devDependencies": {
+    "@types/react-helmet": "^6.1.11",
+    "@types/react-router-dom": "^5.3.3",
+    "@types/styled-components": "^5.1.34"
   }
 }
